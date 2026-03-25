@@ -37,7 +37,6 @@ Target users:
 * Sustainability-conscious consumers
 * People interested in fashion but wanting to reduce spending
 
-![Clothing](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Clothing_on_rack.jpg/640px-Clothing_on_rack.jpg)
 
 
 ## Data sources and AI methods
